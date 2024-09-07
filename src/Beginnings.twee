@@ -1,0 +1,900 @@
+:: StoryTitle
+Beginnings
+
+
+:: StoryData
+{
+  "ifid": "B9F15A6F-C64F-443D-8EA4-279DD5F5CACE",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Start",
+  "zoom": 1
+}
+
+
+:: Admiral of the UEE Navy {"position":"1500,500","size":"100,100"}
+($AlignmentChange:-5)\
+($NeutralityChange:15)\
+($ChangeIntelligence:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy’s rise from an ace pilot to an admiral in the UEE Navy was swift, his leadership proven in countless battles against the Vanduul. After sustaining injuries that forced him to step back from direct combat, Sepfy was given command of the Javelin-class Frigate Halberd, one of the most advanced capital ships in the UEE fleet. The Halberd, a sleek and powerful vessel, was armed with heavy turrets, missile systems, and a reinforced hull, designed to be both a frontline assault ship and a versatile command center.]
+
+(after:1s)[(t8n:'dissolve')[As an admiral, Sepfy became known for his aggressive but brilliant tactics. He believed that the best defense was a relentless offense, and his strategies often involved leading his fleet into the heart of enemy formations, overwhelming them with precise strikes before they could react. His ability to predict enemy movements and exploit weaknesses earned him the loyalty of his crew and the admiration of his peers.]]
+
+(after:2s)[(t8n:'dissolve')[The Halberd quickly became one of the most feared ships in the UEE Navy. Under Sepfy’s command, it led several decisive campaigns, from ambushing Vanduul raiders to breaking through heavily defended enemy sectors. Sepfy's use of the Halberd's speed and firepower, combined with his calculated risks, allowed him to turn the tide of several major battles.]]
+
+(after:3s)[(t8n:'dissolve')[Despite the constant pressures of war, Sepfy remained a calm and commanding presence on the bridge. His crew trusted him implicitly, knowing that he would lead them to victory even in the most dire circumstances. The Halberd became a symbol of the UEE’s strength, and Sepfy’s name became synonymous with strategic brilliance.]]
+
+(after:4s)[(t8n:'dissolve')[After years of service, having secured countless victories and cemented his legacy, Sepfy retired from active duty. His retirement marked the end of an era for the Halberd and the UEE Navy. Sepfy left behind a legacy of tactical innovation, leadership, and bravery, forever remembered as one of the Navy’s finest commanders.]]
+(after:5s)[(t8n:'dissolve')[
+[[Summary]] ]]
+
+
+:: Apprentice of the Dragon {"position":"100,500","size":"100,100"}
+($AlignmentChange:-5)\
+($NeutralityChange:5)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[The green dragon Boheemus loomed over the smoldering ruins of the slave caravan, his eyes gleaming with ancient wisdom and cruel amusement. But when his gaze fell upon Sepfy, something shifted. There was potential in the boy—raw, untamed power that called to the dragon’s deep well of magic. Boheemus, always one to seize an opportunity, did not devour Sepfy. Instead, he offered him a new path.]
+
+(after:1s)[(t8n:'dissolve')[Under the dragon’s tutelage, Sepfy learned the ways of both sword and sorcery. Days bled into weeks, then years, as the boy became a man, molded by the arcane teachings of his draconic master. Boheemus bestowed upon Sepfy a portion of his draconic essence, a gift that burned in his veins and gave rise to strange, terrible power. Magic came as easily as breathing, and the sword became an extension of Sepfy’s will.]]
+
+(after:2s)[(t8n:'dissolve')[Boheemus was not just a teacher, but a constant presence—powerful, dangerous, and captivating. As the years passed, Sepfy found himself drawn to his master in ways he had never anticipated. Love, twisted by power and magic, blossomed within him. It was a love bound by their shared hunger for knowledge, for dominance, and for treasure.]]
+
+(after:3s)[(t8n:'dissolve')[For many years, Sepfy served Boheemus loyally, helping him in his schemes and pursuits. The dragon’s lair became Sepfy’s home, a place where treasure glittered in the dark, and magic thrummed in the air. But even the deepest love could not stifle the call for adventure, for freedom. Boheemus, knowing that a dragon’s apprentice could not remain in the shadows forever, sent Sepfy forth into the world.]]
+
+(after:4s)[(t8n:'dissolve')[Sepfy’s new quest: to seek out treasures long buried and forgotten, to claim riches in the name of his master. But with each step, he grew more powerful, more independent, his draconic essence pushing him toward his own destiny.]]
+(after:5s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: Beast World {"position":"375,75","size":"100,100"}
+($AlignmentChange:10)\
+($NeutralityChange:10)\
+($ChangeIntelligence:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy’s birth in the Beast World was a far cry from the cold streets of a harsh world. Here, the winds carried songs rather than whispers of danger, and the sun’s warmth embraced all who lived under it. The Beast World, a realm where creatures of fur, feather, and scales walked upright and spoke with wisdom and wit, was a place full of adventure, magic, and mystery—but also laughter and joy.]
+
+(after:1s)[(t8n:'dissolve')[Sepfy’s family was well-off in this world, his early years blessed with comfort and opportunity. Yet, even in this vibrant land, fate had two paths prepared for him—each leading to a life of its own wonder and challenge.]]
+
+(after:2s)[(t8n:'dissolve')[[[Born in the gleaming capital of Allemance Louvain, Sepfy’s family held a position of noble status, living a world of invluence, politics and elegance.->Noble-born]]
+
+[[Born in the rugged, sun-scorched deserts of the Bey'lik in Arneria, Sepfy’s family were scholars, dedicated to uncovering the ancient mysteries of their land.->Scholar-born]]]]
+
+(after:3s)[(t8n:'dissolve')[The choice of his birthplace will shape Sepfy’s future in ways even the stars cannot predict. Will he walk among nobles in the capital, or traverse the sands in search of ancient wisdom?]]
+
+
+:: Betrayed by Darkness {"position":"200,500","size":"100,100"}
+($AlignmentChange:-15)\
+($NeutralityChange:-15)\
+($ChangeDexterity:4)\
+($ChangeIntelligence:2)\
+(t8n:'dissolve')[The night Sepfy killed the Mouse, everything changed. His heart, already hardened by the streets, shattered completely. He had made a promise to escape together, but the cruelty of fate had torn that hope away. After the blood had dried, Sepfy wandered the streets, lost and alone, his soul heavy with guilt.]
+
+(after:1s)[(t8n:'dissolve')[It was then that a stranger appeared—a traveling assassin, cloaked in shadow, who had been watching Sepfy from the moment he killed the vampire. The assassin recognized something in the boy beyond the sharpness of his blade: the birthmark that had always set him apart, the sign of something greater. Without a word, the assassin took him in, seeing potential where others saw a broken child.]]
+
+(after:2s)[(t8n:'dissolve')[Under the assassin’s guidance, Sepfy’s skills were honed with ruthless precision. He learned the ways of stealth, the art of silent killing, and the subtle use of magic to mask his presence. It was a harsh life, but in this assassin, Sepfy found a strange kind of mentor, one who saw him not as a tool, but as a student.]]
+
+(after:3s)[(t8n:'dissolve')[When the time came, Sepfy was taken to the Assassin's Guild—a secretive, dangerous place where only the deadliest thrived. Here, he found camaraderie among the other young assassins-in-training, making friends for the first time since the Mouse. They bonded over shared trials, long nights of training, and the weight of their dangerous futures.]]
+
+(after:4s)[(t8n:'dissolve')[But the Guild had its own brutal traditions. When it came time to "graduate" and earn their place among the elite, Sepfy and his friends were forced into a cruel test—only those who survived could claim the title of assassin. Friend turned against friend, and one by one, they fell. Sepfy, shocked and disgusted by the bloodshed, fought for his life. In the end, he was one of the few left standing.]]
+
+(after:5s)[(t8n:'dissolve')[But the cost was too great. Sepfy could not bear the weight of his friends’ deaths. He fled the guild, knowing they would never stop hunting him for his betrayal. Branded a deserter, he became a wanted man, pursued not only by the Guild’s assassins but also by the law.]]
+
+(after:6s)[(t8n:'dissolve')[Now, Sepfy roams from town to town, always looking over his shoulder. Every shadow feels like a threat, every stranger a potential enemy. He has learned to trust no one, his only constant companion the fear of being hunted. The stars that once marked his birth have now marked him for death, and he is always one step away from the edge.]]
+(after:7s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: Clone Wars Era {"position":"1350,325","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:5)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeWisdom:2)\
+(t8n:'dissolve')[Sepfy’s training had begun later than most younglings, as the Clone Wars raged across the galaxy. He had only recently arrived at the Jedi Temple, wide-eyed and eager to learn, when everything came crashing down. The warnings were brief, the confusion overwhelming. Order 66 had been issued, and the very soldiers who had fought alongside the Jedi turned against them in an instant.]
+
+(after:1s)[(t8n:'dissolve')[The Temple, once a sanctuary of peace and learning, was now a battleground. Blaster fire echoed through the halls as Jedi fell one by one. Sepfy, too young to fight and too inexperienced to fully understand the magnitude of what was happening, fled into the chaos. He had been trained to control his emotions, but fear gripped his heart as he ran through the crumbling corridors, narrowly escaping the fate that had befallen so many of his fellow Jedi.]]
+
+(after:2s)[(t8n:'dissolve')[With the help of a sympathetic temple worker, Sepfy was smuggled out of Coruscant, hidden among the supplies bound for distant worlds. He was forced to abandon his lightsaber and hide his connection to the Force, knowing that any sign of his Jedi training could lead to his death. The galaxy had become a dangerous place for those who had once served as its protectors.]]
+(after:3s)[(t8n:'dissolve')[
+[[In one path, Sepfy finds refuge within the Rebel fleet, hiding his past as a Jedi. He trains as a B-Wing pilot, using his instincts and Force sensitivity to become an ace flyer in the Rebellion’s fight against the Empire.->Rebel B-Wing Pilot]]
+
+[[In another path, Sepfy chooses to join the Imperial ranks, masking his true identity. His skill as a pilot earns him a place as a TIE Interceptor pilot, eventually rising to the ranks of the elite TIE Defender squadron, all while concealing his past as a Jedi.->Imperial TIE Pilot]]
+]]
+
+
+:: Fantasy {"position":"0,100","size":"100,100"}
+($AlignmentChange:-5)\
+($NeutralityChange:-5)\
+($ChangeDexterity:2)\
+($ChangeIntelligence:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy's first breath is taken in a world where magic saturates the air, where ancient forces shape the land and sky. The night whispers with the power of long-forgotten gods, and the stars above seem to burn with ancient purpose. This is a place where the boundaries between myth and reality blur, where legends walk the earth and magic courses through stone and soil alike.]
+
+(after:1s)[(t8n:'dissolve')[The stars shift, revealing two potential fates for Sepfy’s life—two realms where the nature of magic, and of life itself, diverge.]]
+
+(after:2s)[(t8n:'dissolve')[[[A world where humans and fantastical beings live side by side, where cities rise from the ashes of long-dead empires and dragons still circle the skies.->Forgotten Realms]]
+
+[[A world where beasts walk as men, where wolves, lions, and birds of prey speak, laugh, and rule. Magic flows through fur and feather alike.->Beast World]]
+]]
+
+
+:: Forgotten Realms {"position":"200,150","size":"100,100"}
+($AlignmentChange:-10)\
+($NeutralityChange:-10)\
+($ChangeDexterity:2)\
+($ChangeIntelligence:2)\
+($ChangeWisdom:2)\
+(t8n:'dissolve')[Sepfy was born under the light of a rare celestial alignment, a pattern in the heavens that the village elders whispered of with hushed reverence—and fear. They called it an auspicious sign, though no one agreed on whether it promised greatness or doom. From the moment of his birth, he was marked by the stars, an unseen force guiding his life in ways neither he nor those around him could understand.]
+
+(after:1s)[(t8n:'dissolve')[As a child, Sepfy wandered the cobblestone streets of his small town, his presence a quiet enigma to the other villagers. Mothers pulled their children away when he passed, and the elders avoided his gaze. It wasn’t long before rumors spread—of ill fortune, of strange occurrences that followed him like a shadow. He was set apart, and even as a young boy, he felt the weight of their fear and suspicion.]]
+
+(after:2s)[(t8n:'dissolve')[On his third birthday, the only constant in his life vanished. His mother, who had cared for him despite the whispers, disappeared without a trace. The townsfolk spoke in hushed tones, some claiming she had been taken by a dark force, others that she had fled, unable to bear the burden of her cursed son. But the truth? No one knew.]]
+
+(after:3s)[(t8n:'dissolve')[For years, it was just Sepfy and his father. A man weathered by grief and hardship, his father tried to protect him from the village’s scorn, but even he could not shield Sepfy from what was to come. On Sepfy’s seventh year, fate’s hand moved once again.]]
+
+(after:4s)[(t8n:'dissolve')[[[His father lives, but the debts he has accrued weigh too heavily. One night, strangers arrive, and Sepfy is sold into slavery.->Slavery]]
+
+[[His father dies, struck down by a blade. Sepfy is left to fend for himself on the streets as an urchin.->Urchin]]
+]]
+
+
+:: Galaxy Smuggler {"position":"1800,500","size":"100,100"}
+($AlignmentChange:0)\
+($NeutralityChange:-10)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy’s decision to save up for the RSI Galaxy opened up new possibilities for his mercenary squad. The Galaxy’s modular design made it the perfect ship for running blockades, and Sepfy wasted no time converting it into a powerful smuggling vessel. Its reinforced cargo holds and advanced stealth systems allowed them to slip through even the tightest Imperial or corporate blockades, carrying essential supplies to those in need—and getting handsomely paid for the risks.]
+
+(after:1s)[(t8n:'dissolve')[With Tali at the helm of the ship’s slicing systems and Raze keeping the Galaxy fine-tuned, Sepfy’s crew took on high-stakes missions to deliver food, medicine, and weapons to remote colonies and resistance cells. Many of these locations were under the thumb of corrupt corporations or Imperial control, where legal trade routes were restricted. Sepfy's crew became experts in navigating dangerous space, avoiding patrols, and outrunning pirate attacks.]]
+
+(after:2s)[(t8n:'dissolve')[While their work often involved skirting the law, Sepfy maintained a sense of purpose—ensuring that those cut off from critical supplies received what they needed to survive. The Galaxy’s speed and durability made it the ideal blockade runner, able to break through dangerous zones while keeping its cargo secure.]]
+
+(after:3s)[(t8n:'dissolve')[Each run was a gamble, but with every successful mission, Sepfy’s reputation as a smuggler and mercenary grew. Though operating in a gray area of the law, Sepfy and his crew were seen by many as heroes, risking everything to ensure the survival of those who had been forgotten by the galaxy.]]
+(after:4s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: Gray Jedi Wanderer {"position":"1100,500","size":"100,100"}
+($AlignmentChange:-10)\
+($NeutralityChange:-5)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[The stars stretched out before Sepfy like a tapestry of endless possibilities, each world a new chapter in his journey. No longer bound by the strict teachings of the Jedi, Sepfy roamed the galaxy aboard a light Jedi transport ship he had quietly taken when he left the Order. The vessel, once a symbol of the Jedi’s peacekeeping mission, now served as a home for a man no longer tied to their rigid code.]
+
+(after:1s)[(t8n:'dissolve')[Sepfy had always felt the Force guiding him, but now he followed its whispers on his own terms. He had cast aside the absolutes of the Jedi and embraced the gray areas where true balance was found. His path was neither of light nor dark, but somewhere in between. The galaxy was vast, and its problems—overlooked by the Republic and the Jedi—were many. Wherever Sepfy sensed injustice, he intervened, using his knowledge of the Force to tip the scales toward what he believed was right.]]
+
+(after:2s)[(t8n:'dissolve')[His travels took him to worlds ravaged by war, where corrupt leaders profited from the suffering of their people. On one planet, Sepfy disrupted the operations of a local warlord, using both diplomacy and the Force to undermine their grip on power. On another, he freed an oppressed population forced into labor by an unscrupulous corporation. In these moments, Sepfy’s skills as a negotiator, fighter, and Force user blended seamlessly, allowing him to resolve conflicts that others had ignored.]]
+
+(after:3s)[(t8n:'dissolve')[Sepfy’s connection to the Force was his greatest ally, but he had learned to wield it with caution, knowing the temptation of power. His mastery of both light and dark Force techniques gave him a unique edge—he could heal and protect, but also subdue and manipulate when the situation required it. He wasn’t afraid to walk the line between the two, using whatever means necessary to bring balance to the chaos he encountered.]]
+
+(after:4s)[(t8n:'dissolve')[Along the way, Sepfy encountered allies and enemies alike. Some saw him as a rogue Jedi, a hero working outside the bounds of the Republic, while others viewed him as a dangerous rebel, unwilling to follow the laws of the galaxy. Yet Sepfy cared little for titles or allegiances—his only loyalty was to the people who needed help, and the sense of purpose that drove him forward.]]
+
+(after:5s)[(t8n:'dissolve')[Though the Jedi might have called his actions reckless, Sepfy saw himself as the galaxy’s true peacekeeper, unburdened by the constraints of the Order. His travels were lonely, but fulfilling, as he moved from system to system, solving the problems that others refused to see. The galaxy was a vast, complicated place, and Sepfy embraced the ambiguity that came with walking between the light and the dark.]]
+
+(after:6s)[(t8n:'dissolve')[For as long as there were people in need, Sepfy would continue his journey, a wanderer among the stars, following only the path he chose for himself.]]
+(after:7s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: Hammerhead Escort {"position":"1700,500","size":"100,100"}
+($AlignmentChange:-10)\
+($NeutralityChange:-25)\
+($ChangeConstitution:2)\
+($ChangeIntelligence:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy’s mercenary squad had always taken risks, but the heist to steal the Aegis Hammerhead was their boldest move yet. The opportunity came when Sepfy learned of a UEE convoy transporting a brand-new Hammerhead through an unsecured jump point. With the help of Tali, the crew sliced into the convoy’s nav systems, rerouting the ship’s course through a remote sector. There, Sepfy’s Vanguard Sentinel disabled the Hammerhead with a perfectly timed EMP blast, while his team boarded the ship under the cover of darkness.]
+
+(after:1s)[(t8n:'dissolve')[The plan was precise, but the execution was perilous. Draylen and Raze led the boarding team, neutralizing the small escort crew while Sepfy took control of the Hammerhead’s command center. Once the ship was theirs, they jumped into uncharted space, evading pursuit and disappearing with their prize.]]
+
+(after:2s)[(t8n:'dissolve')[With the Hammerhead now their flagship, Sepfy’s crew transformed into one of the most feared mercenary squadrons in the galaxy. The Hammerhead’s powerful turrets and advanced shields allowed them to take on high-risk escort missions, protecting cargo convoys through pirate-infested sectors and warzones. The Halberd—as they named the Hammerhead—became a fortress, with Sepfy at its helm.]]
+
+(after:3s)[(t8n:'dissolve')[Their missions grew more dangerous as word of their success spread. They were hired to protect illegal cargo, fend off pirate fleets, and even assault heavily fortified installations for powerful corporate clients. Sepfy’s aggressive tactics and the Hammerhead’s heavy firepower made them a force to be reckoned with, especially in battles where precision and overwhelming force were needed.]]
+
+(after:4s)[(t8n:'dissolve')[Whether escorting fragile cargo or leading assaults against entrenched foes, Sepfy and his crew thrived in the chaos of the lawless galaxy, their stolen Hammerhead serving as a symbol of their audacity and skill.]]
+(after:5s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: High Republic Era {"position":"1225,325","size":"100,100"}
+($AlignmentChange:10)\
+($NeutralityChange:10)\
+($ChangeDexterity:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[As the High Republic thrived, so too did Sepfy’s training within the Jedi Order. The galaxy, at peace and united, revered the Jedi as protectors and keepers of balance. Yet, for Sepfy, the more he trained, the more disillusioned he became. The Order’s rigid adherence to their code—its strict rules of detachment and inaction when they deemed intervention unnecessary—began to weigh heavily on his spirit. He could feel the suffering in the galaxy, sense the imbalance that the Jedi refused to acknowledge or address.]
+
+(after:1s)[(t8n:'dissolve')[Sepfy’s heart ached when he witnessed injustices ignored by the Jedi’s philosophy. Where they saw clear lines of light and dark, right and wrong, Sepfy saw shades of gray, complexities that the Order refused to confront. His frustration grew, and his teachers, sensing his inner turmoil, warned him against such thoughts. Yet their warnings only pushed him further from their teachings.]]
+
+(after:2s)[(t8n:'dissolve')[One fateful day, Sepfy made his choice. He left the Order, abandoning the life of a Jedi, unwilling to continue in an institution that ignored the suffering of the galaxy for the sake of a rigid code. The path ahead was uncertain, but Sepfy felt freer than ever, no longer bound by the rules that had shackled him.]]
+(after:3s)[(t8n:'dissolve')[
+[[Unaligned with either the light or dark, he walks the line between the two, using the Force to help those in need without the constraints of the Jedi’s rigid morality. His mission becomes one of balance, seeking to bring justice and aid to those forgotten by the galaxy.->Gray Jedi Wanderer]]
+
+[[Tempted by the power and freedom that the dark side offers, he slowly begins to embrace it, drawn to its promise of strength and control. The desire to right the wrongs he has witnessed becomes twisted as the dark side warps his intentions, pulling him toward a path of destruction.->Tempted by the Dark Side]]
+]]
+
+
+:: Imperial TIE Pilot {"position":"1300,500","size":"100,100"}
+($AlignmentChange:-25)\
+($NeutralityChange:5)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeIntelligence:2)\
+(t8n:'dissolve')[Sepfy’s escape from Order 66 had forced him to hide his Jedi past, and when he found himself in the midst of the Galactic Empire’s growing military machine, he chose survival over resistance. Joining the ranks of the Imperial Starfighter Corps, Sepfy quickly rose through the ranks as a TIE Interceptor pilot. He flew dangerous missions with ruthless efficiency, using his honed instincts and latent Force sensitivity to outmaneuver enemies and claim victory after victory for the Empire.]
+
+(after:1s)[(t8n:'dissolve')[Despite the Empire’s oppressive nature, Sepfy found himself excelling within its structure. The discipline and order of the Imperial Navy allowed him to focus solely on his duties, and his skill as a pilot quickly earned him a reputation as one of the best in his squadron. He was promoted to fly the TIE Interceptor, the fast and agile starfighter that embodied the Empire’s swift, brutal tactics in space combat.]]
+
+(after:2s)[(t8n:'dissolve')[Sepfy’s rise didn’t stop there. After proving himself time and time again in combat, he was selected for the elite ranks of the TIE Defender program. The TIE Defender, equipped with shields and hyperdrives—unusual for standard Imperial starfighters—was a powerful and versatile craft. It was designed for the best pilots in the Empire, and Sepfy quickly mastered it. Leading dangerous strikes on Rebel convoys and critical targets, he continued to earn accolades and respect among his peers. His leadership and effectiveness made him a natural choice to command his own squadron of elite pilots.]]
+
+(after:3s)[(t8n:'dissolve')[But as Sepfy’s role within the Empire grew, so did his internal conflict. The missions he led began to weigh heavily on him, especially those targeting civilian populations. The more he witnessed the cruelty and ruthlessness of the Empire, the more his Jedi training—the morals and ethics he had once buried—began to resurface.]]
+
+(after:4s)[(t8n:'dissolve')[The breaking point came during a mission that would change everything. Sepfy and his squadron were ordered to eliminate a defenseless population on a remote planet suspected of harboring Rebel sympathizers. The population had no weapons, no means to fight back. The order was clear, but Sepfy hesitated. His conscience, long suppressed by the demands of the Empire, rebelled against the command. He could no longer be part of the atrocities he had once justified as "just following orders."]]
+
+(after:5s)[(t8n:'dissolve')[With a bold decision, Sepfy refused the order. His squadron, loyal to him, splintered. Half of his pilots followed Sepfy in defiance of the Empire, while the other half remained loyal to the command. A firefight erupted in space above the planet, with Sepfy’s defectors escaping the fray and fleeing to join the Rebellion.]]
+
+(after:6s)[(t8n:'dissolve')[Now hunted as traitors, Sepfy and his fellow defectors were welcomed into the Rebel fleet. Though they had once been enemies, the Rebellion valued their skills and their knowledge of the Empire’s tactics. Sepfy, however, carried the weight of his past with him. He had served the Empire, committed acts he could never take back, but now, in the Rebel ranks, he sought to make amends.]]
+
+(after:7s)[(t8n:'dissolve')[Flying once again, now in the name of freedom rather than oppression, Sepfy wielded both his piloting prowess and his buried connection to the Force to fight for a cause he could finally believe in.]]
+(after:8s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: Mercenary Squadron {"position":"1675,325","size":"100,100"}
+($AlignmentChange:-10)\
+($NeutralityChange:-10)\
+($ChangeConstitution:2)\
+($ChangeIntelligence:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Leaving the rigid structures of the UEE Navy behind, Sepfy set out to carve his own path, forming a mercenary squadron with a ragtag crew of misfits and outcasts. Together, they took on jobs that ranged from bounty hunting to escort missions, their reputation growing as specialists in the "gray areas" of the law.]
+
+(after:1s)[(t8n:'dissolve')[Sepfy’s fleet, though small, was perfectly suited for the life of a mercenary. His flagship was an Aegis Dynamics Vanguard Sentinel, a long-range fighter equipped with powerful EMP capabilities, allowing them to disable enemy ships before striking. For smuggling and high-risk courier jobs, Sepfy relied on the Crusader Mercury Star Runner, a sleek, fast ship perfect for transporting valuable or illicit cargo across UEE space. Rounding out the fleet was the Origin M50, a lightning-fast racing interceptor that Sepfy used for reconnaissance or high-speed chases.]]
+
+(after:2s)[(t8n:'dissolve')[Sepfy’s crew was as diverse as his fleet. There was Draylen, a former UEE marine turned bounty hunter, whose no-nonsense attitude made him invaluable during close-quarters combat; Tali, an expert slicer who could hack into almost any system, perfect for covert operations; and Raze, a disgraced Xi’an engineer who kept their ships flying despite constant abuse. Together, this crew performed odd jobs for anyone who could pay, always skirting the line between legal and illegal.]]
+(after:3s)[(t8n:'dissolve')[
+[[A daring heist, stealing a new flagship straight from the UEE Navy with massive firepower and heavy defenses.->Hammerhead Escort]]
+
+[['Legitimately' procures enough credits to purchase a larger, well-armed cargo ship to be used for trading.->Galaxy Smuggler]]
+]]
+
+
+:: Modern {"position":"825,150","size":"100,100"}
+($AlignmentChange:25)\
+($NeutralityChange:25)\
+($ChangeStrength:2)\
+($ChangeConstitution:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Oh? You decided to go for the most boring, real-world-esque option that we live in today? Were you expecting to get a Schoolgirl Sepfy or something?]
+
+(after:1s)[(t8n:'dissolve')[Gosh, if you wanted to know more about me you should just ask me on Telegram or something! I don't bite (though I might like getting bitten, ha).]]
+
+(after:2s)[(t8n:'dissolve')[Ahem. I guess I should write some actual backstory here.]]
+
+(after:3s)[(t8n:'dissolve')[Sepfy grew up to a military family and was born abroad in Germany (though he's not German in the slightest, rather half-Thai, half-white). His mother left when he was 3 and his dad married his (same age as said Dad's) babysitter who was also in the Air Force. They had another kid so Sepfy got a half-brother.]]
+
+(after:4s)[(t8n:'dissolve')[Granted, Dad is currently on his fourth wife now, but we digress.]]
+
+(after:5s)[(t8n:'dissolve')[Sepfy was always a somewhat-nerdy, indoorsy kid. He liked to read, play lego, and do the video games and anime thing. In fact he still likes to do all those things to this day.]]
+
+(after:6s)[(t8n:'dissolve')[He got his first boyfriend when he was 15 (though he'd already slept with boys earlier) and came out as openly gay at this time...a scary feat in middle Georgia.]]
+
+(after:7s)[(t8n:'dissolve')[Eventually he went to college but had to drop out due to being only slightly crazy and needing to get a job when his parent's cut him off (just from money, not from...like their life or anything). He got a job, but eventually decided to learn some skills and got into computers.]]
+
+(after:8s)[(t8n:'dissolve')[He went and worked for a mom-and-pop computer repair shop for a while before starting his actual career in the IT-industry, where he resides to this day.]]
+
+(after:9s)[(t8n:'dissolve')[He likes computers, AV, cameras, home automation, cooking, food, and pretty much any nerdy thing ever!]]
+
+(after:10s)[(t8n:'dissolve')[ [[Summary]] ]]
+
+
+:: Noble-born {"position":"400,325","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:5)\
+($ChangeDexterity:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy was born into the shimmering world of Allemance Louvain, where nobles wove intricate webs of influence and power. His family held a place of honor in the capital’s court, respected and admired for their wisdom and grace. But such prestige often comes with enemies lurking in the shadows. One fateful night, Sepfy’s world shattered as his parents fell victim to a ruthless conspiracy, their lives taken in a swift, cold-blooded coup.]
+
+(after:1s)[(t8n:'dissolve')[Orphaned and thrust into danger, Sepfy was hidden away by loyal retainers who still believed in his family’s legacy. In secrecy, he was tutored in the ways of nobility—strategy, diplomacy, and the arts of influence. Yet Sepfy, now living under a false name, chose to conceal his noble blood. He wanted to rise not because of his birthright, but through his own strength, cunning, and determination.]]
+
+(after:2s)[(t8n:'dissolve')[As he grew older, Sepfy remained in the shadows of Allemance Louvain, watching the nobles who had taken everything from him. He honed his skills, waiting for the moment when he could reveal himself—either as a power in his own right or as the bringer of justice for his family.]]
+
+(after:3s)[(t8n:'dissolve')[[[Sepfy sets his sights on the royal court, vying for political power through careful alliances and calculated moves. His ultimate goal: to rise to the Queen’s court and claim his rightful place among the kingdom’s elite.->Path of Power]]
+
+[[Sepfy seeks revenge, his heart set on punishing the very nobles who orchestrated his family’s downfall. He walks a dangerous path, full of intrigue and danger, determined to bring justice to those who betrayed him.->Path of Revenge]]
+]]
+
+
+:: Partners in Glory {"position":"300,500","size":"100,100"}
+($AlignmentChange:10)\
+($NeutralityChange:10)\
+($ChangeDexterity:2)\
+($ChangeCharisma:4)\
+(t8n:'dissolve')[Sepfy and the Mouse had fulfilled their childhood dream, escaping the bleak streets to forge a new life. Together, they joined the Adventurers' Guild, quickly rising through the ranks. Their exploits became the stuff of legend, and soon their names were known far and wide—Sepfy, the sharp and cunning warrior, and the Mouse, his quick-witted partner. Treasure after treasure, victory after victory, they became icons of the adventuring world—respected, powerful, and even feared.]
+
+(after:1s)[(t8n:'dissolve')[But such success came at a cost. As their fame grew, so did the weight of their responsibilities. When war came to the land, the crown had little choice but to conscript them. The enemy was no mere mortal army but a force of demons, a threat to the very fabric of the world. Sepfy fought valiantly, his skills and power making him a natural leader on the battlefield. The battles were fierce, the toll heavy, but Sepfy and his comrades stood strong against the demonic horde.]]
+
+(after:2s)[(t8n:'dissolve')[Then came the day when fate took another cruel twist.]]
+
+(after:5s)[(t8n:'dissolve')[In the heat of battle, as the sky tore open and demons poured forth, Sepfy faced an enemy he could not defeat. A demon of great power, seeking to break his mind and body, latched onto him, taking root in his very soul. The possession was quick and brutal. Sepfy's vision blurred, his body no longer his own. In a twisted moment of madness, the demon seized control of him, turning his blade against his own companions. By the time Sepfy regained control, it was too late—his comrades, his friends, lay dead at his feet, slaughtered by his own hand.]]
+
+(after:6s)[(t8n:'dissolve')[Stricken with grief and horror, Sepfy fled the battlefield, abandoning the war, unable to face the consequences of his actions. But the demon was not done with him. It remained, a constant presence now bound to him, its malevolent essence festering within his left arm—a reminder of the darkness he could not escape.]]
+
+(after:7s)[(t8n:'dissolve')[Now, Sepfy wanders the land, seeking redemption for the blood on his hands. He takes on dangerous quests and hunts down evildoers in an attempt to make amends for his past, but the weight of his guilt never leaves him. Worse still, the demon within constantly seeks to corrupt him further, whispering temptations, trying to bend his will to its own.]]
+
+(after:8s)[(t8n:'dissolve')[Sepfy’s struggle is not just against the world, but against himself. Every day is a battle to keep the demon at bay, to avoid becoming the very thing he once fought against. He knows he cannot outrun his past, but still, he presses on, hoping that somewhere, in some way, he can find peace.]]
+(after:9s)[(t8n:'dissolve')[
+[[Summary]] ]]
+
+
+:: Path of Escape {"position":"700,500","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:-10)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeWisdom:2)\
+(t8n:'dissolve')[Sepfy could still feel the heat of the desert sun on his back as he left Arneria behind. The weight of his parents' deaths was unbearable, but the fear of being next drove him to flee the land that had once been his home. He crossed the border, leaving the shifting sands of the Bey'lik for the unknown, hoping that distance would bring safety. But the memories of his parents, the knowledge of their killers, haunted him, even as he traveled farther from the land of his birth.]
+
+(after:1s)[(t8n:'dissolve')[In the lands beyond Arneria, Sepfy struggled to find a place for himself. He lived off his wits and skills, blending his scholarly knowledge with the practical lessons learned in the harsh desert. It wasn’t long before fate intervened once more. The continent was in the midst of a war—the Invaders War, a brutal conflict against the Brethren, an invading force that sought to conquer and subjugate. With no home to return to, Sepfy enlisted in the army, drawn by the promise of protection, food, and perhaps, purpose.]]
+
+(after:2s)[(t8n:'dissolve')[The war was long and bloody, but Sepfy’s intelligence and skills proved invaluable on the battlefield. He quickly rose through the ranks, though the horrors of war left their mark. His mind, once filled with scholarly curiosity, became hardened by the violence and loss. The Brethren were relentless, and the struggle for survival pushed Sepfy to the brink. Yet, in the heat of battle, he found a strange kind of solace—a way to forget the pain of his past.]]
+
+(after:3s)[(t8n:'dissolve')[When the war finally ended, the scars of conflict ran deep, and Sepfy once again found himself without a clear path. His heart, still heavy with grief and loss, longed for something more. He wandered the continent, no longer tied to any nation, seeking not just peace, but love and comfort—something to fill the void left by his parents’ deaths.]]
+
+(after:4s)[(t8n:'dissolve')[His search took him to many places: bustling cities, forgotten ruins, and remote villages. But love was elusive, and the comfort he sought seemed always just out of reach. In time, Sepfy became a traveling mercenary, offering his sword and knowledge to those who could pay. He took on dangerous jobs—guarding caravans through treacherous lands, delving into dungeons to recover ancient artifacts, and battling creatures of darkness that lurked in the forgotten corners of the world.]]
+
+(after:5s)[(t8n:'dissolve')[Sepfy’s reputation grew. He was known as a man of skill, a reliable fighter with a sharp mind, though those who worked alongside him noticed a loneliness in his eyes—a man searching for something he could never quite find. In the dark, quiet moments between jobs, Sepfy would gaze at the stars, remembering the warmth of his parents’ love, and wondering if he would ever find a place to belong again.]]
+
+(after:6s)[(t8n:'dissolve')[But for now, he walked the path of a mercenary and dungeon delver, always moving, always searching.]]
+(after:7s)[(t8n:'dissolve')[
+[[Summary]] ]]
+
+
+:: Path of Power {"position":"400,500","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:10)\
+($ChangeWisdom:2)\
+($ChangeCharisma:4)\
+(t8n:'dissolve')[Sepfy had always been clever with words, his voice a velvet thread that could weave through even the tightest of knots. Living in the shadows of Allemance Louvain, he learned to watch, listen, and wait. The city’s glittering nobles were no different from street thieves—each eager to outwit the other, every move a step in a delicate dance of power. Sepfy knew this game well, and he played it with precision.]
+
+(after:1s)[(t8n:'dissolve')[His first steps into the realm of politics were small—quiet favors, whispered promises, and carefully timed acts of charm. His natural charisma, coupled with his growing mastery of illusion and enchantment magic, allowed him to bend minds and perceptions with ease. He could make others see what he wished them to see, hear only what he wanted them to hear. It was a subtle art, one he honed with careful practice.]]
+
+(after:2s)[(t8n:'dissolve')[As Sepfy’s influence grew, he crafted a new persona, one that began to climb the social ladder of the city. His skills in illusion allowed him to blend into high society, to appear as a noble in his own right. With each conversation, each well-placed compliment or suggestion, he built alliances, gaining favor with those who held true power in Allemance Louvain.]]
+
+(after:3s)[(t8n:'dissolve')[Sepfy’s ambitions, however, did not stop at mere influence. His ultimate goal was the royal court—the inner circle of the Queen herself. Through his political maneuvering, he caught the eye of a key figure: a noblewoman close to the Queen. Using charm and subtle enchantments, Sepfy ingratiated himself into her favor, earning an invitation to the royal court.]]
+
+(after:4s)[(t8n:'dissolve')[There, in the opulent halls of the palace, Sepfy’s rise accelerated. He carefully positioned himself as a problem-solver, a voice of reason in the midst of courtly chaos. His mastery of illusion and enchantment allowed him to subtly guide conversations, sway opinions, and even protect his own identity. The Queen, impressed by his wit and insight, began to rely on him more and more, seeking his counsel in matters of state.]]
+
+(after:5s)[(t8n:'dissolve')[In time, Sepfy became one of the Queen’s most trusted advisors. His influence stretched across the kingdom, and his power grew alongside it. He lived a life of luxury, his every need catered to, his name spoken with respect and fear in the court. The conspiracies that had taken his family’s life seemed distant now—mere shadows compared to the radiance of his success.]]
+
+(after:6s)[(t8n:'dissolve')[With his position secured, Sepfy could now wield both political power and magical prowess. His illusions masked his true intentions, while his enchantments ensured loyalty where charm alone could not. In the end, he had not only risen to the height of power—he had mastered it.]]
+(after:7s)[(t8n:'dissolve')[
+[[Summary]] ]]
+
+
+:: Path of Revenge {"position":"500,500","size":"100,100"}
+($AlignmentChange:-30)\
+($NeutralityChange:-30)\
+($ChangeIntelligence:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy had watched the nobles of Allemance Louvain for years—those who had conspired, plotted, and stolen the lives of his parents. Each name, each face, was burned into his memory. They thought they had won, that the boy they orphaned was lost forever in the shadows. But Sepfy was very much alive, hiding in plain sight. As he grew older, his thirst for vengeance became sharper than any blade.]
+
+(after:1s)[(t8n:'dissolve')[Living a dual life, Sepfy blended into the city as a nobody, a face forgotten the moment it was seen. But beneath that mask, he was a weapon waiting to be unleashed. By day, he walked among the common folk, unremarkable, invisible. By night, he became the specter of death, striking from the shadows with precision and cruelty.]]
+
+(after:2s)[(t8n:'dissolve')[He started with the smallest—those on the periphery of the conspiracy. One by one, he hunted them down. Sepfy’s mastery of illusion and stealth made him unstoppable. He could be anyone, anywhere, slipping in and out of high society without a trace. Each noble that fell was made to suffer—Sepfy ensured that their deaths were slow, painful, and laced with the fear of knowing why they were dying.]]
+
+(after:3s)[(t8n:'dissolve')[But Sepfy’s vengeance was not just personal. He knew that to truly destroy those who wronged him, he had to dismantle the very system they thrived in. He turned his attention to the heart of Allemance’s political machinery, systematically sowing discord among the nobles. He played them against each other, whispered lies that festered into distrust and paranoia.]]
+
+(after:4s)[(t8n:'dissolve')[His efforts took their toll. The Queendom, once stable and prosperous, began to crack under the weight of infighting. As Sepfy’s vendetta advanced, nobles turned on one another, alliances crumbled, and the foundations of power shifted. The city’s upper echelons descended into chaos, unaware that the one they had wronged as a child was the very force undoing them.]]
+
+(after:5s)[(t8n:'dissolve')[The deaths of the conspirators were brutal, but the destruction of the system they upheld was even more devastating. Sepfy watched, his heart darkened by revenge, as Allemance Louvain slowly unraveled. The Queen, no longer able to control the warring factions of her court, saw her kingdom slip into anarchy.]]
+
+(after:6s)[(t8n:'dissolve')[By the time Sepfy had completed his vengeance, Allemance Louvain was a city on the brink of collapse. The streets, once filled with opulence and grandeur, were now rife with bloodshed and disorder. Sepfy had become the architect of destruction, a master of shadows who had torn down the very society that had taken everything from him.]]
+
+(after:7s)[(t8n:'dissolve')[He stood alone now, a man with no name, a ghost in the ruins of the kingdom he had helped destroy. His revenge was complete, but the cost was the soul of a city—and perhaps his own.]]
+(after:8s)[(t8n:'dissolve')[
+[[Summary]] ]]
+
+
+:: Rebel B-Wing Pilot {"position":"1400,500","size":"100,100"}
+($AlignmentChange:10)\
+($NeutralityChange:-20)\
+($ChangeDexterity:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy had fled the Jedi Order, but the galaxy was still at war. Hiding his Force sensitivity, he found a new purpose within the Rebellion, a movement rising against the tyranny of the Galactic Empire. He joined the ranks of the Rebel Alliance, taking up a position in the B-Wing bomber squadron, a group of daring pilots who flew some of the most powerful starfighters in the Rebel fleet.]
+
+(after:1s)[(t8n:'dissolve')[Assigned the callsign Nebula 3, Sepfy quickly made a name for himself. His instincts as a pilot were unmatched, and though he never openly used the Force, its influence subtly guided him through impossible maneuvers and near-death encounters. With each mission, he grew more confident, taking on increasingly dangerous assignments against Imperial forces. Sepfy’s B-Wing, a heavy bomber designed for taking down capital ships, became his weapon of choice, and he became a key player in numerous skirmishes across the galaxy.]]
+
+(after:2s)[(t8n:'dissolve')[Over time, Sepfy rose through the ranks, his leadership and calm under fire earning him the respect of his fellow pilots. When the opportunity came, he was promoted to Captain of Nebula Squadron, leading his team in some of the most pivotal battles of the Rebellion. His defining moment came during the assault on the second Death Star. Sepfy led his squadron into the heart of the Imperial fleet, coordinating bombing runs that weakened the massive space station’s defenses. His squad played a crucial role in its ultimate destruction, dealing a decisive blow to the Empire.]]
+
+(after:3s)[(t8n:'dissolve')[When the Empire fell, Sepfy’s war didn’t end. The galaxy was in turmoil, and the Rebellion transitioned into the New Republic. Sepfy remained a key figure, eventually rising to the rank of General, overseeing fleets and coordinating large-scale operations to maintain peace in a galaxy still reeling from decades of war.]]
+
+(after:4s)[(t8n:'dissolve')[It was during this time of relative peace that Sepfy began to reflect on his past. The Jedi had been all but forgotten, but the Force still lingered in the galaxy, and it had never truly left him. As General, Sepfy once again took up his lightsaber, training in secret to refine the skills he had abandoned so long ago. The galaxy no longer had the Jedi Order it once knew, but Sepfy understood that the balance of the Force was still important—and he would walk that path once more, this time on his own terms.]]
+
+(after:5s)[(t8n:'dissolve')[Now a leader, a pilot, and a Force user, Sepfy had forged his own destiny, standing tall among the heroes of the Rebellion while carrying the weight of the past with him.]]
+(after:6s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: Scholar-born {"position":"575,325","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:10)\
+($ChangeIntelligence:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy was born into a family of scholars, nestled in the sun-scorched deserts of the Bey'lik in Arneria. His parents were renowned intellectuals, revered for their dedication to uncovering the ancient mysteries buried beneath the shifting sands. They spent their lives piecing together the forgotten history of the world, deciphering cryptic symbols etched into ruins, and collecting tomes filled with long-lost knowledge. For Sepfy, their work was not just a calling—it was a way of life.]
+
+(after:1s)[(t8n:'dissolve')[His childhood was filled with books and scrolls, sandstorms and oases, as his parents taught him not just how to read and write, but how to think. They instilled in him a deep curiosity and a relentless desire for discovery. Though they often lost themselves in their studies, Sepfy never felt neglected. His parents loved him deeply, and their shared passion for learning created a bond stronger than any desert wind.]]
+
+(after:2s)[(t8n:'dissolve')[Their success afforded them a comfortable life, but it also attracted attention. As their fame grew, so too did the interest of powerful figures who desired the knowledge they had uncovered. Sepfy’s parents had always believed that knowledge belonged to everyone, refusing to sell their discoveries to the highest bidder. But in the desert, where wealth and power ruled, such defiance came at a cost.]]
+
+(after:3s)[(t8n:'dissolve')[One night, as the desert winds howled outside their home, Sepfy’s world was shattered. A group of masked men, hired by those who coveted his parents’ secrets, stormed their home. His parents were killed swiftly, leaving Sepfy alone among the scattered pages of their life’s work. The knowledge they had uncovered, once a beacon of hope, now seemed to curse Sepfy’s existence.]]
+
+(after:4s)[(t8n:'dissolve')[In the days that followed, Sepfy stood at a crossroads. The grief and anger within him boiled over, threatening to consume him. But even in his despair, the sands of the desert whispered two paths before him:]]
+
+(after:5s)[(t8n:'dissolve')[[[Sepfy, driven by rage, vows to avenge his parents and track down those responsible for their deaths. Armed with their knowledge and his own growing intellect, he sets out to confront the shadowy figures who ordered the attack.->Shadowy Revenge]]
+
+[[Sepfy, fearing the power of those who had his parents killed, chooses to flee Arneria. He abandons the sands of his homeland, seeking refuge in distant lands, hoping to escape the danger and start a new life. ->Path of Escape]]]]
+
+
+:: Sci-Fi {"position":"1725,100","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:5)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeIntelligence:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy’s birth was not in the soft glow of a rising sun, but beneath the cold, metallic hum of starships and distant planets. The cosmos stretched endlessly beyond him, a vast sea of stars, planets, and possibilities. This was a world where technology reigned supreme, where the dreams of ancient civilizations had become reality, and the boundaries of space were little more than lines to be crossed.]
+
+(after:1s)[(t8n:'dissolve')[From an early age, Sepfy was thrust into a universe that pulsed with life and danger. The hum of starships, the glow of neon lights in distant cities, the constant hum of technology—it was all he knew. But beyond the gleaming exteriors of starports and colonies, there were secrets hidden in the far reaches of space, waiting to be uncovered. Sepfy’s life was shaped by the worlds around him, but fate, as always, had other plans.]]
+
+(after:2s)[(t8n:'dissolve')[Two paths unfolded before him, leading to very different futures, each shaped by the galaxy he would call home.]]
+(after:3s)[(t8n:'dissolve')[
+[[In one path, the galaxy is ruled by an ancient power: the Galactic Empire. In this Star Wars universe, Sepfy must navigate a galaxy torn by rebellion and war, where the Force flows through all living things, and destiny is written in the stars.->Star Wars]]
+
+[[In another path, Sepfy finds himself in the far reaches of a future Earth, in the year 2948. The United Empire of Earth, a massive interstellar government, rules over distant star systems.->Star Citizen]] ]]
+
+
+:: Servant of the Illithid {"position":"0,500","size":"100,100"}
+($AlignmentChange:-10)\
+($NeutralityChange:10)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeIntelligence:2)\
+(t8n:'dissolve')[The Underdark was a world of shadows and whispers, where sanity frayed like threads in the dark. It was here, deep beneath the surface, that Sepfy was delivered to his new master—a Mind Flayer whose name echoed through the caverns like a low, sinister hum. From the moment Sepfy laid eyes on the creature, he knew his life was no longer his own.]
+
+(after:1s)[(t8n:'dissolve')[At first, Sepfy called the Illithid "master," but that word soon lost its meaning. Pain became his only companion. The Mind Flayer saw in Sepfy something more than a mere servant—something to be broken and rebuilt, over and over again. His body, his mind, were subjected to unspeakable tortures. He became the Illithid’s pet, bound by chains that no magic could sever.]]
+
+(after:2s)[(t8n:'dissolve')[Yet even in the depths of torment, Sepfy's spirit refused to die. With each lash of cruelty, he learned. The Illithid’s cruel games pushed him beyond his limits, forcing him to blend magic and blade in ways few had ever mastered. His suffering became his strength. Through the haze of agony, Sepfy’s magic grew more potent, his swordplay more precise.]]
+
+(after:3s)[(t8n:'dissolve')[Within the twisted labyrinth of the Illithid’s lair, Sepfy found a small light amid the darkness—his teachers. Scrae, a wizened kobold adept in magic, became his first true mentor. Beneath the kobold’s sharp tongue and harsher lessons, Sepfy learned to refine his arcane abilities, blending spells with instinct and fury. Then there was Zennobas, a gnoll who taught him the brutal art of combat, and Hellazin, a Svirfneblin who showed him how to wield a blade with precision in the chaos of dungeon skirmishes.]]
+
+(after:4s)[(t8n:'dissolve')[Sepfy served them all, loyal to each in his own way. His skill in dungeon crawling, treasure hunting, and survival grew with each mission, each trial. Every delve into the dark places of the world sharpened his mind and body. Through pain and perseverance, he became a master of retrieving relics and treasures from forgotten depths.]]
+
+(after:5s)[(t8n:'dissolve')[As his abilities grew, so too did the Illithid’s trust—or perhaps its amusement. Sepfy was given more freedom, allowed to venture further from the lair. He was still bound, but the leash was longer now. His missions took him far and wide, sent to recover treasures and secrets for his master. Yet in every dark corner, in every shadowy ruin, Sepfy carried the weight of his past—the pain that had forged him into a living weapon.]]
+
+(after:6s)[(t8n:'dissolve')[But even a pet can grow restless, and the dark desires of freedom began to stir within Sepfy’s heart.]]
+(after:6s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
+
+
+:: Setup [startup] {"position":"950,50","size":"100,100"}
+(set: $Neutrality to 50)\
+(set: $Alignment to 50) <!-- Starting value for the player -->\
+(set: $LeaningEvilThreshold to 40) <!-- These four affect how $AlignmentText and other macros work -->\
+(set: $LeaningGoodThreshold to 60)\
+(set: $EvilThreshold to 25)\
+(set: $GoodThreshold to 75)\
+(set: $LeaningChaoticThreshold to 40)\
+(set: $LeaningLawfulThreshold to 60)\
+(set: $ChaoticThreshold to 25)\
+(set: $LawfulThreshold to 75)\
+(set: $Strength to 8)\
+(set: $Dexterity to 12)\
+(set: $Constitution to 8)\
+(set: $Intelligence to 12)\
+(set: $Wisdom to 10)\
+(set: $Charisma to 10)\
+(set: $ChangeStrength to (macro: int-type _change, [
+	(set: $Strength to ($Strength + _change))
+    (output:)[]
+]))\
+(set: $ChangeDexterity to (macro: int-type _change, [
+	(set: $Dexterity to ($Dexterity + _change))
+    (output:)[]
+]))\
+(set: $ChangeConstitution to (macro: int-type _change, [
+	(set: $Constitution to ($Constitution + _change))
+    (output:)[]
+]))\
+(set: $ChangeIntelligence to (macro: int-type _change, [
+	(set: $Intelligence to ($Intelligence + _change))
+    (output:)[]
+]))\
+(set: $ChangeWisdom to (macro: int-type _change, [
+	(set: $Wisdom to ($Wisdom + _change))
+    (output:)[]
+]))\
+(set: $ChangeCharisma to (macro: int-type _change, [
+	(set: $Charisma to ($Charisma + _change))
+    (output:)[]
+]))\
+\
+(set: $FC to (macro: int-type _val, int-type _delta, [
+	(set: _result to _val)<!-- This macro allows percentage-like adjustments of a value, with a bias towards reaching 50% -->
+	(if: _delta <= 0)[
+    	(set: _result to (round: _val + (_val*(_delta/100))))
+    ](else:)[
+    	(set: _result to (round: _val + ((100-_val)*(_delta/100))))
+    ]
+    (output-data: _result)
+]))\
+(set: $AlignmentChange to (macro: int-type _change, [
+	(set: $Alignment to ($FC: $Alignment, _change))
+    (output:)[]
+]))\
+(set: $NeutralityChange to (macro: int-type _change, [
+	(set: $Neutrality to ($FC: $Neutrality, _change))
+    (output:)[]
+]))\
+(set: $IsFullyGood to (macro: [(output-data:$Alignment >= $GoodThreshold)]))\
+(set: $IsLeaningGood to (macro: [(output-data:$Alignment >= $LeaningGoodThreshold and not ($IsFullyGood:))]))\
+(set: $IsAnyGood to (macro: [(output-data:($IsLeaningGood:) or ($IsFullyGood:))]))\
+(set: $IsFullyEvil to (macro: [(output-data:$Alignment <= $EvilThreshold)]))\
+(set: $IsLeaningEvil to (macro: [(output-data:$Alignment <= $LeaningEvilThreshold and not ($IsFullyEvil:))]))\
+(set: $IsAnyEvil to (macro: [(output-data:($IsFullyEvil:) or ($IsLeaningEvil:))]))\
+(set: $IsNeutral to (macro: [(output-data:not ($IsLeaningGood:) and not ($IsLeaningEvil:))]))\
+(set: $IsFullyLawful to (macro: [(output-data:$Neutrality >= $LawfulThreshold)]))\
+(set: $IsLeaningLawful to (macro: [(output-data:$Neutrality >= $LeaningLawfulThreshold and not ($IsFullyLawful:))]))\
+(set: $IsAnyLawful to (macro: [(output-data:($IsLeaningLawful:) or ($IsFullyLawful:))]))\
+(set: $IsFullyChaotic to (macro: [(output-data:$Neutrality <= $ChaoticThreshold)]))\
+(set: $IsLeaningChaotic to (macro: [(output-data:$Neutrality <= $LeaningChaoticThreshold and not ($IsFullyChaotic:))]))\
+(set: $IsAnyChaotic to (macro: [(output-data:($IsFullyChaotic:) or ($IsLeaningChaotic:))]))\
+(set: $IsTrue to (macro: [(output-data:not ($IsLeaningLawful:) and not ($IsLeaningChaotic:))]))\
+(set: $AlignmentText to (macro: [
+	(set: _o to "neutral")
+    (if: ($IsFullyEvil:))[(set: _o to "evil")]
+    (else-if: ($IsFullyGood:))[(set: _o to "good")]
+    (else-if: ($IsLeaningEvil:))[(set: _o to "somewhat evil")]
+    (else-if: ($IsLeaningGood:))[(set: _o to "somewhat good")]
+    (output:)[_o]
+]))\
+(set: $NeutralityText to (macro: [
+	(set: _o to "neutral")
+    (if: ($IsFullyChaotic:))[(set: _o to "chaotic")]
+    (else-if: ($IsFullyLawful:))[(set: _o to "lawful")]
+    (else-if: ($IsLeaningChaotic:))[(set: _o to "chaoticish")]
+    (else-if: ($IsLeaningLawful:))[(set: _o to "lawfulish")]
+    (output:)[_o]
+]))
+
+
+:: Shadowy Revenge {"position":"600,500","size":"100,100"}
+($AlignmentChange:-65)\
+($NeutralityChange:-65)\
+($ChangeDexterity:2)\
+($ChangeCharisma:4)\
+(t8n:'dissolve')[The desert wind howled through the night as Sepfy stood over the graves of his parents, the weight of their deaths pressing down on him like the very sands beneath his feet. Grief had turned to fury, and the anger that burned within him demanded retribution. But Sepfy knew he was no match for the powerful figures who had taken everything from him. They had wealth, influence, and the strength of armies behind them.]
+
+(after:1s)[(t8n:'dissolve')[That night, as the stars flickered like cold, distant eyes, Sepfy made a choice. He called out into the darkness—not to the gods, but to something deeper, darker. His voice carried across the dunes, and something answered.]]
+
+(after:2s)[(t8n:'dissolve')[The demon came to him in a vision—an ancient being, older than the desert itself, whispering promises of power beyond mortal comprehension. It offered Sepfy a pact: unimaginable strength in exchange for his soul. Desperate for vengeance, Sepfy accepted without hesitation. The moment the pact was sealed, a dark fire ignited within him, and his transformation began.]]
+
+(after:3s)[(t8n:'dissolve')[Now a warlock, Sepfy wielded powers far beyond anything he could have imagined. His magic was not the careful, studied magic of scholars, but raw, destructive force. His newfound abilities bent reality itself, allowing him to strike down those responsible for his parents’ deaths with terrifying precision. One by one, they fell before him, their cries of fear and pain echoing through the desert as Sepfy exacted his revenge.]]
+
+(after:4s)[(t8n:'dissolve')[But as the bodies piled up, so too did the hunger for more. The demon’s power, once a means to an end, began to consume Sepfy’s very soul. The thrill of destruction, the ecstasy of power, became an addiction. No longer satisfied with mere vengeance, Sepfy turned his sights on the world itself.]]
+
+(after:5s)[(t8n:'dissolve')[He became a scourge upon the lands, his demonic pact fueling an insatiable thirst for power. Villages burned, cities crumbled, and the name Sepfy became a curse whispered in fear. His parents' killers had long since perished, but the darkness within him drove him to seek out more destruction, more chaos.]]
+
+(after:6s)[(t8n:'dissolve')[Sepfy was no longer just a man seeking revenge—he had become something far worse, a harbinger of ruin, and the world trembled beneath his shadow.]]
+(after:7s)[(t8n:'dissolve')[
+[[Summary]] ]]
+
+
+:: Slavery {"position":"0,350","size":"100,100"}
+($AlignmentChange:-10)\
+($ChangeDexterity:2)\
+($ChangeWisdom:2)\
+($ChangeIntelligence:2)\
+(t8n:'dissolve')[Sepfy’s life was traded away in the dead of night. His father, burdened by debts too heavy to bear, had no choice but to hand his son over to shadowy figures cloaked in whispers. They led Sepfy away, and with every step, the boy’s world grew colder, darker, until the last remnants of his childhood vanished into the mist behind him.]
+
+(after:1s)[(t8n:'dissolve')[The days that followed blurred into a haze of chains and commands. Sepfy learned quickly to obey, to survive, as he was passed from one set of cruel hands to another. His fate seemed sealed—a nameless face in the endless tide of the enslaved.]]
+
+(after:2s)[(t8n:'dissolve')[But the stars that marked his birth had other plans. They wove threads of strange, terrible destiny around him, and soon, Sepfy found himself standing at the edge of two paths, both shrouded in danger and dark magic.]]
+
+(after:3s)[(t8n:'dissolve')[[[Sold to a Mind Flayer deep within the Underdark->Servant of the Illithid]]
+
+[[Sold to a Slave Caravan bound for distant lands->Apprentice of the Dragon]]]]
+
+
+:: Star Citizen {"position":"1425,100","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:5)\
+($ChangeDexterity:2)\
+($ChangeIntelligence:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[In the Star Citizen universe, Sepfy begins his journey as a pilot with exceptional reflexes and situational awareness, traits likely enhanced by his latent connection to the Force. He trains rigorously, quickly rising to prominence within the United Empire of Earth (UEE) Navy as a starfighter pilot.]
+
+(after:1s)[(t8n:'dissolve')[By the 30th century, conflicts such as the Vanduul War and tensions with alien species like the Xi'an make his skills invaluable. Sepfy's precision and instincts earn him a place among the Navy's elite pilots, where he faces constant danger in high-profile conflicts.]]
+(after:2s)[(t8n:'dissolve')[
+[[He continues to rise in the ranks, taking part in key battles and cementing his status as one of the Navy's top pilots. His loyalty remains with the UEE as he faces ever-greater challenges in defending the Empire from external threats like the Vanduul incursions.->UEE Officer]]
+
+[[Disillusioned by the UEE's politics and growing mistrust of centralized power, Sepfy breaks away and forms a mercenary squadron. With his sharp piloting skills, he and his crew take on high-risk contracts for independent systems, corporations, and those in need of protection beyond UEE control.->Mercenary Squadron]]
+]]
+
+
+:: Star Wars {"position":"1200,100","size":"100,100"}
+($AlignmentChange:10)\
+($NeutralityChange:10)\
+($ChangeDexterity:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy was barely old enough to understand the galaxy when his life was irrevocably changed. Living in the outer reaches of the galaxy, his early years were spent in a quiet, unremarkable world. But even as a child, there was something different about him—small signs of a deeper power. Objects would move when he was upset, strange feelings would course through him in moments of danger. These events did not go unnoticed.]
+
+(after:1s)[(t8n:'dissolve')[One day, a Jedi Knight arrived, seeking out the Force-sensitive children of the galaxy. It wasn’t long before Sepfy was discovered, his natural connection to the Force undeniable. Though his family was reluctant, they understood the honor of being chosen by the Jedi Order, and with heavy hearts, they let him go.]]
+
+(after:2s)[(t8n:'dissolve')[Taken to the Jedi Temple, Sepfy’s world became one of discipline, study, and training. He quickly proved himself to be an adept student, his connection to the Force strong and natural. But beneath his skill lay a storm of emotions—anger, frustration, longing. Sepfy struggled to control these feelings, his lack of discipline setting him apart from the other younglings. While others embraced the Jedi’s strict code of serenity and control, Sepfy found it difficult to rein in his passion. His teachers warned him of the dangers, but still, the conflict simmered beneath the surface.]]
+
+(after:3s)[(t8n:'dissolve')[As Sepfy grew, the galaxy around him shifted, and his fate was tied to the era in which he trained.]]
+(after:4s)[(t8n:'dissolve')[
+[[In one path, Sepfy trains during the High Republic, a golden age of peace and prosperity, where Jedi are revered as peacekeepers of the galaxy. His emotional struggles are tempered by the strength and wisdom of the Order, though temptation still lurks at the edges of his path.->High Republic Era]]
+
+[[In another path, Sepfy’s training takes place on the eve of the Clone Wars, during a time of growing unrest. The Jedi are still powerful, but danger looms. Sepfy is a youngling when Order 66 is issued, and the Jedi purge begins.->Clone Wars Era]]
+]]
+
+
+:: Start {"position":"825,0","size":"100,100"}
+(t8n:'dissolve')[The world into which Sepfy is born is veiled in uncertainty, its very nature not yet defined by the stars or the will of fate. Darkness presses in from all sides, a primordial silence, as if the cosmos itself holds its breath.]
+
+(after:1s)[(t8n:'dissolve')[A single spark ignites—a heartbeat. Sepfy's heartbeat. It reverberates through the void, echoing like a distant drum. With each pulse, the shape of the world begins to emerge, but the future remains malleable, the details blurred, awaiting the hand of destiny.]]
+
+(after:2s)[(t8n:'dissolve')[Sepfy’s first cry cuts through the silence like a blade, and with it, time begins to flow. Yet, what kind of world is this? What forces shape the skies, the lands, and the people? The answer lies within, waiting to be chosen...]]
+
+(after:3s)[(t8n:'dissolve')[[[Sepfy is born into a world of magic and monsters->Fantasy]]
+
+[[Sepfy is born into a world of concrete and electricity->Modern]]
+
+[[Sepfy is born into a world of steel and stars->Sci-Fi]] ]]
+
+(after:4s)[(t8n:'dissolve')[Sepfy is born as a Folf - a Fox and Wolf hybrid born to a Silver Fox and a Red Wolf, though his own fur is a grayish slate blue in color. He has white fur on his stomach, down his crotch and back underneath through the lower portion of his tail. His hair is black and messy, and his left eartip is black. His eyes vary in color depending on what's going on, from a golden yellow, orangish-red, or deep brown. His frame is lithe and girlish in nature.]]
+
+
+:: Summary {"position":"825,725","size":"100,100"}
+(t8n:'dissolve')[''Alignment''
+($NeutralityText:) ($AlignmentText:) ]
+
+(after:1s)[(t8n:'dissolve')[''Statistics''
+Strength: ($Strength)
+Dexterity: ($Dexterity)
+Constitution: ($Constitution)
+Intelligence: ($Intelligence)
+Wisdom: ($Wisdom)
+Charisma: ($Charisma)]]
+
+(after:2s)[(t8n:'dissolve')[And here the intro to Sepfy's story ends, only to begin another chapter.]]
+
+(after:3s)[(t8n:'dissolve')[ (link: "Back to the Beginning")[(reload:))] ]]
+
+
+:: Tempted by the Dark Side {"position":"1200,500","size":"100,100"}
+($AlignmentChange:-65)\
+($NeutralityChange:-45)\
+($ChangeDexterity:2)\
+($ChangeIntelligence:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[After leaving the Jedi Order, Sepfy's journey took him far from the temples and teachings he had once known. But as he wandered the galaxy, disillusioned with the rigidity of the light side, he found himself unknowingly drawn into the influence of something darker. A figure appeared in his life, masked in shadows, offering guidance in subtle ways. At first, Sepfy thought he had merely found a fellow traveler, a mentor who understood his frustrations with the Jedi’s black-and-white worldview.]
+
+(after:1s)[(t8n:'dissolve')[Unbeknownst to Sepfy, this was no ordinary mentor—it was a Sith Master, skilled in manipulation and deception. Under this dark influence, Sepfy was slowly led down the path of the dark side, his frustrations and emotions used as fuel to stoke the growing power within him. The teachings were tempting—power without restraint, freedom without rules. Sepfy found himself growing stronger, but also more conflicted, as the line between light and dark blurred beyond recognition.]]
+
+(after:2s)[(t8n:'dissolve')[It wasn’t until a moment of clarity—when he was forced to commit an atrocity in the name of this "guidance"—that Sepfy realized the truth. He had been manipulated by the Sith. In a daring move, he broke free, escaping from the clutches of the dark side’s influence. But by then, it was too late—the damage had been done. The dark side had touched him, and he could never truly return to the light.]]
+
+(after:3s)[(t8n:'dissolve')[Now a rogue, Sepfy carried two lightsabers—one blue, a relic of his time as a Jedi, and one red, a symbol of the dark path he had narrowly escaped. With both sabers at his side, Sepfy became a mercenary, taking jobs across the galaxy that neither the Jedi nor the Sith would touch. He worked in the gray space between the two great powers, accepting contracts that ranged from protecting the innocent to hunting down those who threatened galactic order.]]
+
+(after:4s)[(t8n:'dissolve')[But his dual nature came at a cost. Sepfy was hunted by both the Jedi and the Sith, each viewing him as a threat. The Jedi saw him as a fallen disciple who had betrayed the Order’s teachings, while the Sith viewed him as a traitor who had rejected the dark side’s embrace. He was dogged at every turn, forced to fight off pursuers from both sides, never able to rest for long.]]
+
+(after:5s)[(t8n:'dissolve')[Sepfy didn’t answer to either of his former masters. He had become something else entirely—an outcast, unbound by the codes of light or dark. His reputation grew as a mercenary who wielded both a blue and red lightsaber, his enemies never knowing which side of the Force they would face when they confronted him. Some jobs required the discipline and control of the light, while others demanded the raw power of the dark. Sepfy had learned to master both, walking the fine line between order and chaos.]]
+
+(after:6s)[(t8n:'dissolve')[Despite the constant danger, Sepfy found a strange sense of freedom in his new life. He answered to no one, following only his own instincts and sense of justice, twisted as it had become. The galaxy was his battlefield, and in its vast expanse, Sepfy forged his own path—one that defied the destinies laid out by both the Jedi and the Sith.]]
+
+(after:7s)[(t8n:'dissolve')[But the darkness still called to him, whispering promises of power, and the light, too, tugged at his soul, reminding him of the peace he had once known. Sepfy knew he could never truly escape the pull of either side, but for now, he would carve his own fate with a blue saber in one hand and a red saber in the other.]]
+(after:8s)[(t8n:'dissolve')[
+[[Summary]] ]]
+
+
+:: UEE Officer {"position":"1550,325","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:10)\
+($ChangeDexterity:2)\
+($ChangeWisdom:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy’s skill as a pilot was unmatched, and as the war against the Vanduul escalated, his reputation soared within the ranks of the UEE Navy. Flying the F7A Hornet, a versatile and powerful fighter, Sepfy led daring assaults against Vanduul forces, carving his name into the annals of the Navy’s most distinguished pilots.]
+
+(after:1s)[(t8n:'dissolve')[In one particularly harrowing engagement, Sepfy’s squadron was tasked with spearheading a counterattack against a Vanduul fleet that threatened a key UEE outpost. Outnumbered and outgunned, Sepfy’s reflexes and situational awareness guided his squadron through the storm of enemy fire. He weaved through the chaos, taking down multiple Vanduul Scythes and Glaives, often at great personal risk. When his squadron was nearly wiped out, Sepfy single-handedly disabled a Vanduul destroyer, crippling the enemy fleet and securing a pivotal victory for the UEE.]]
+
+(after:2s)[(t8n:'dissolve')[For his bravery and tactical brilliance, Sepfy was awarded the Imperial Star of Valor, one of the Navy’s highest honors, recognizing pilots who go above and beyond in defending the Empire. His heroism became the stuff of legend, a beacon of hope in the long war against the Vanduul.]]
+(after:3s)[(t8n:'dissolve')[
+[[Sepfy sustains injuries in the battle that force him to step back from active combat. Despite this, his leadership skills and strategic mind see him promoted to Admiral.->Admiral of the UEE Navy]]
+
+[[Sepfy remains at the front lines, leading squadrons of elite pilots as they take on the fiercest Vanduul threats, pushing the limits of what a single pilot can achieve. ->Veteran Heavy Fighter Pilot]]
+]]
+
+
+:: Urchin {"position":"175,325","size":"100,100"}
+($AlignmentChange:5)\
+($NeutralityChange:-5)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeWisdom:2)\
+(t8n:'dissolve')[The streets of Sepfy’s village were cold, unforgiving, and full of dangers that no child should face. When his father died, leaving him with nothing but the clothes on his back, Sepfy was forced to survive by any means necessary. With no home and no family, he turned to the shadows, learning quickly that survival meant embracing the darkness around him.]
+
+(after:1s)[(t8n:'dissolve')[At first, it was small things—an apple from the market, a few coins from an unsuspecting merchant. But the streets were always watching, and soon, the Thieves' Guild took notice. They brought him into their fold, seeing potential in the young boy’s quick hands and sharp mind. Yet, in the Guild, there were no allies—only rivals. Sepfy, though one of the better young thieves, was treated as little more than a tool, used and discarded when convenient. Abuse came in many forms—beatings for minor mistakes, harsh words for perceived slights. But it was the only life he knew.]]
+
+(after:2s)[(t8n:'dissolve')[It was on these streets, however, that Sepfy met his one true friend: a mouse, small and pious that helped act as the sheath to Sepfy's now-aggressive behaviour. They became best friends quickly over the course of a few weeks and over time, they became more than just partners in crime. They became brothers, bound by their shared suffering and dreams of escaping the city’s cruel grip.]]
+
+(after:3s)[(t8n:'dissolve')[One night, under the stars, they made a promise—to leave the streets behind, to break free from the Thieves' Guild and find a better life. They would run away, together, and live the life they both deserved. But the streets were not so easily escaped, and fate had darker plans for them both.]]
+
+(after:4s)[(t8n:'dissolve')[[[In one twist of fate, the Mouse is bitten by a vampire, transformed into a creature of the night. Sepfy, heartbroken, is forced to kill not only the vampire who turned his friend, but the Mouse as well, his promise shattered.->Betrayed by Darkness]]
+
+[[In another, their escape is successful. Together, they join the Adventurers' Guild, rising to fame as skilled treasure hunters. They become well-known, celebrated for their daring exploits across the realm.->Partners in Glory]]]]
+
+
+:: Using Alignment {"position":"1050,50","size":"100,100"}
+Here's how to use this alignment system!
+
+The alignment score (in the variable $Alignment) starts at 50, and can range from 0 to 99 (but keep in mind it can be hard to get below 10 or above 90).  You adjust it by calling $AlignmentChange with a value indicating how large of an adjustment you want.  Think of the value as a percentage; 5 would mean a small adjustment, and 50 a really big one, and 90 is huge.  Down below I put some examples so you can test this passage and see how the math works out.
+
+In the [[Setup]] passage I defined some convenient macros for working with it.  In a passage where you want to adjust the player's alignment, you do that with ($AlignmentChange:10).  Use positive numbers to adjust towards goodness, and negative numbers to go to the dark side.
+
+You can get a text string for the player's current alignment with ($AlignmentText:), or check their alignment 'tier' using the custom macros you can see in the IF statements below here.  Those three all work by using the variables $GoodThreshold and $EvilThreshold to detect 'good' and 'evil', so once you've got the alignment changes integrated into the game, changing the values of those variables in the [[Setup]] passage will be one way to tweak and tune how easy or hard it is to become good or evil.  (The other is to change the weights on the alignment changes in the game.)
+
+And for blocks of text:
+
+(if:$Alignment < 45)[
+This block of text is shown if the player's alignment is under 45!
+]
+
+(if:($IsFullyGood:))[
+This block is shown only to players who are fully good!
+]
+
+(if:($IsLeaningGood:))[
+This block is shown only to players who are leaning good!
+]
+
+(if:($IsAnyGood:))[
+This block is shown to players who are leaning good, OR fully good!
+]
+
+(if:($IsNeutral:))[
+This block is shown only to neutral players!
+]
+
+(if:($IsLeaningEvil:))[
+This block is shown only to players who are leaning evil!
+]
+
+(if:($IsFullyEvil:))[
+This block is shown only to fully evil players!
+]
+
+(if:($IsAnyEvil:))[
+This block is shown to players who are leaning evil, OR fully evil!
+]
+
+(if:($IsNeutral:) or ($IsAnyGood:))[
+This block is shown to players who are neutral, good, or leaning good!
+]
+
+(if:not ($IsAnyEvil:))[
+This block is ALSO shown to players who are neutral, good, or leaning good; it just defines the logic differently, by saying "anyone who isn't any level of evil" instead of "neutrals and anyone who is any level of good".
+]
+
+----------------
+Adjusting by 10:
+
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 10 points ($AlignmentChange:10)and now it's $Alignment (($AlignmentText:))
+change down by 10 points ($AlignmentChange:-10)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 23)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 10 points ($AlignmentChange:10)and now it's $Alignment (($AlignmentText:))
+change down by 10 points ($AlignmentChange:-10)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 72)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 10 points ($AlignmentChange:10)and now it's $Alignment (($AlignmentText:))
+change down by 10 points ($AlignmentChange:-10)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 48)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 10 points ($AlignmentChange:10)and now it's $Alignment (($AlignmentText:))
+change down by 10 points ($AlignmentChange:-10)and now it's $Alignment (($AlignmentText:))
+
+----------------
+Adjusting by 5:
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 5 points ($AlignmentChange:5)and now it's $Alignment (($AlignmentText:))
+change down by 5 points ($AlignmentChange:-5)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 23)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 5 points ($AlignmentChange:5)and now it's $Alignment (($AlignmentText:))
+change down by 5 points ($AlignmentChange:-5)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 72)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 5 points ($AlignmentChange:5)and now it's $Alignment (($AlignmentText:))
+change down by 5 points ($AlignmentChange:-5)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 48)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 5 points ($AlignmentChange:5)and now it's $Alignment (($AlignmentText:))
+change down by 5 points ($AlignmentChange:-5)and now it's $Alignment (($AlignmentText:))
+
+
+-----------
+
+Adjusting by 25:
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 25 points ($AlignmentChange:25)and now it's $Alignment (($AlignmentText:))
+change down by 25 points ($AlignmentChange:-25)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 23)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 25 points ($AlignmentChange:25)and now it's $Alignment (($AlignmentText:))
+change down by 25 points ($AlignmentChange:-25)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 72)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 25 points ($AlignmentChange:25)and now it's $Alignment (($AlignmentText:))
+change down by 25 points ($AlignmentChange:-25)and now it's $Alignment (($AlignmentText:))
+
+(set:$Alignment to 48)
+Our alignment is $Alignment, which is ($AlignmentText:)!
+change up by 25 points ($AlignmentChange:25)and now it's $Alignment (($AlignmentText:))
+change down by 25 points ($AlignmentChange:-25)and now it's $Alignment (($AlignmentText:))
+
+---------------
+
+
+
+
+
+:: Veteran Heavy Fighter Pilot {"position":"1600,500","size":"100,100"}
+($AlignmentChange:-5)\
+($NeutralityChange:5)\
+($ChangeDexterity:2)\
+($ChangeConstitution:2)\
+($ChangeCharisma:2)\
+(t8n:'dissolve')[Sepfy, unrelenting in his pursuit of mastery, chose to stay on the front lines as a heavy fighter pilot after the harrowing assault against the Vanduul. As one of the UEE Navy’s most celebrated pilots, Sepfy was given the freedom to customize his preferred ships—two of the most formidable starfighters in the galaxy.]
+
+(after:1s)[(t8n:'dissolve')[The Anvil Aerospace F8A Lightning became Sepfy’s personal ship for rapid, high-intensity engagements. Known for its exceptional firepower, speed, and agility, the Lightning was a symbol of unmatched dominance in dogfights. Sepfy’s customizations enhanced its maneuverability, allowing him to perform precise strikes and evasive maneuvers that left enemy fighters reeling. Equipped with advanced targeting systems and experimental shielding, Sepfy’s Lightning became a fearsome weapon against the Vanduul Swarm.]]
+
+(after:2s)[(t8n:'dissolve')[For heavier engagements, Sepfy relied on the Crusader Ares Starfighter Inferno. Designed for overwhelming firepower, the Inferno was Sepfy’s answer to the Vanduul’s larger ships and capital vessels. Armed with a massive Gatling gun that could tear through shields and armor alike, Sepfy’s Inferno became the bane of enemy fleets. His modifications made the ship even more destructive, amplifying its range and fire rate, allowing Sepfy to punch through even the most heavily defended Vanduul positions.]]
+
+(after:3s)[(t8n:'dissolve')[Sepfy’s expertise in both ships allowed him to rack up an astounding number of kills. He became the Navy’s top ace in the war against the Vanduul, feared by enemies and respected by allies. His kill count soared as he led daring sorties deep into Vanduul territory, often emerging victorious from battles that seemed impossible.]]
+
+(after:4s)[(t8n:'dissolve')[Though Sepfy worked alongside elite squadrons, his individual prowess set him apart. His Lightning was known for precision strikes, cutting through enemy formations with surgical accuracy, while his Inferno was synonymous with devastation, leaving wreckage in its wake. Whether hunting lone Vanduul fighters or taking on their most dangerous warships, Sepfy was always at the center of the action.]]
+
+(after:5s)[(t8n:'dissolve')[Even as the war dragged on, Sepfy showed no signs of slowing down. His legend grew, his kills climbed, and his name became synonymous with victory in the skies. Though he no longer carried a lightsaber, his connection to the Force guided his hand in every battle, making him an unstoppable force among the stars.]]
+(after:6s)[(t8n:'dissolve')[
+[[Summary]] 
+]]
