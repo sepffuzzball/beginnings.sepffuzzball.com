@@ -18,8 +18,6 @@ env: # define 'static' vars here
 jobs:
   publish:
     runs-on: docker
-    container:
-      image: node:20
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
