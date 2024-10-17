@@ -59,7 +59,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@8e5442c4ef9f78752691e2d8f8d19755c6f78e81 # v5
         with:
-          images: ghcr.io/${{ github.repository }}
+          images: forge.fuzzball.enterprises/${{ github.repository }}
           tags: |
             # set date tag for versioning and 'latest' tag
             type=raw,value={{date 'YYYY.MM.DDHHmm' tz='America/New_York'}},priority=1000
@@ -68,7 +68,7 @@ jobs:
       - name: Login to GitHub Container Registry ✅
         uses: docker/login-action@9780b0c442fbb1117ed29e0efdff1e18412f7567 # v3
         with:
-          registry: ghcr.io
+          registry: forge.fuzzball.enterprises
           username: ${{ github.actor }} # ${{ github.repository_owner }}
           password: ${{ secrets.GH_TOKEN }}
           # logout: false
