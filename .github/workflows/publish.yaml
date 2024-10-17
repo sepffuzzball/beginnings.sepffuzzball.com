@@ -19,7 +19,7 @@ jobs:
   publish:
     runs-on: docker
     container:
-      image: docker:latest
+      image: node:20
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
@@ -41,6 +41,9 @@ jobs:
         with:
           submodules: true
           token: ${{ secrets.GH_TOKEN }}
+
+      - name: Set up Docker
+        uses: crazy-max/ghaction-setup-docker@v3
 
       - name: Set up QEMU 🦤
         uses: docker/setup-qemu-action@v3
