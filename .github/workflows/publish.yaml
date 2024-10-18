@@ -21,12 +21,13 @@ jobs:
     container:
       image: code.forgejo.org/oci/docker:dind
     permissions:
-      # Give the default GITHUB_TOKEN write permission to commit and push the
-      # added or changed files to the repository.
       contents: read
       packages: write
     steps:
-      # https://stackoverflow.com/questions/70483902/how-to-actually-clean-up-the-repository-on-self-hosted-runner-after-github-actio
+      - name: Install dependencies
+        run: |
+          apt-get install -y bash
+      
       - name: Cleanup build folder 🧹
         shell: bash
         run: |
