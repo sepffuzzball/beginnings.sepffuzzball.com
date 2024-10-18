@@ -24,19 +24,6 @@ jobs:
       contents: read
       packages: write
     steps:
-      - name: Install dependencies
-        run: |
-          apt-get install -y bash
-      
-      - name: Cleanup build folder 🧹
-        shell: bash
-        run: |
-          cd ${{ github.workspace }}
-          ls -la ./
-          rm -rf ./* || true
-          rm -rf ./.??* || true
-          ls -la ./
-
       - name: Checkout Repo  🛒
         uses: actions/checkout@v4
         with:
