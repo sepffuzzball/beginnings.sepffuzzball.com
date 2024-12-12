@@ -18,7 +18,7 @@ COPY ./src .
 # Build twine site.
 RUN ../tweego Beginnings.twee -o /src/index.html
 
-FROM docker.io/library/nginx:1.27@sha256:28402db69fec7c17e179ea87882667f1e054391138f77ffaf0c3eb388efc3ffb
+FROM docker.io/library/nginx:1.27@sha256:fb197595ebe76b9c0c14ab68159fd3c08bd067ec62300583543f0ebda353b5be
 # implement changes required to run NGINX as an less-privileged user
 RUN \
     sed -i 's,/var/run/nginx.pid,/tmp/nginx.pid,' /etc/nginx/nginx.conf \
