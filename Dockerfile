@@ -1,6 +1,6 @@
 # Create build environment
 FROM --platform=$BUILDPLATFORM docker.io/library/alpine:3.20@sha256:beefdbd8a1da6d2915566fde36db9db0b524eb737fc57cd1367effd16dc0d06d AS build
-COPY --from=golang:1.13-alpine /usr/local/go/ /usr/local/go/
+COPY --from=golang:1.23-alpine /usr/local/go/ /usr/local/go/
 ENV PATH="/usr/local/go/bin:${PATH}"
 RUN \
     apk add --no-cache \
